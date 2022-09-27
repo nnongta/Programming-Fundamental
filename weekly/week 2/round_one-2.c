@@ -11,6 +11,7 @@ int main(){
             if(n==arr[j])
             {
                 printf("%d ",n);
+                break;
             }
         }
     }
